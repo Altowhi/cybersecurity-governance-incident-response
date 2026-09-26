@@ -1,6 +1,6 @@
 # Cyber Security Governance, Threat Modeling & Incident Response
 
-A group project for the Cyber Security course, MSc Computer and System Science, Stockholm University — covering national cybersecurity policy, organizational security policies, threat modeling, penetration testing, and incident response.
+Cybersecurity governance and defensive security group project covering security policy, STRIDE threat modeling, NIST-based penetration testing, and incident response, with practical application of ISO/IEC and NIST frameworks.
 
 > 🤝 **Group project** — done with Mohammad Kamrul Hasan, Ammar Shareiyat, and Ankit Gautam. Work was split evenly across all four cases.
 
